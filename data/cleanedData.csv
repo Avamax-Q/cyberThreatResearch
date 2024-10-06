@@ -1,0 +1,100 @@
+Name,Date,Motive,Attack Name,Nationality,Suspected Perpetrator,Epicenter of the attack,MONEY Lost (>200000),Devices affected (List of Devices),No. of Devices/Accounts affected,Social Engineering,Network,Bad Security Practices,Exploitation,Other Malware,Ransomware,Web Application,Wireless,Cloud,Mobile,IoT/OT,Insider(Yes/No),Attack Duration,Infected Time,Down Time,Recovery Time,Affected Company,Sector,Global or Not(Yes/No)
+Mehul,8/1/2018,MONEY,Cosmos Bank Cyber Attack,India,"Fahim Shaikh and Mohammad Saeed Iqbal Hussain Jafari of Bhiwandi, Fahim Khan and Shaikh Mohammed Abdul Jabbar of Chhatrapati Sambhajinagar, Mahesh Rathod of Nanded, Naresh Maharana of Palghar, U A Waz alias Anthony, Bashir Ahmed and Feroz Shaikh of Mumbai, Abdulla Shaikh and Salman Baig of Thane.",Pune,940000000,SERVERS/ ATM,12000,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,,,7 HOURS,,,,COSMOS,Finance,NO
+Mehul,5/1/2017,MONEY,Wannacry ransomware attack,USA,THE SHADOW BROKERS,GLOBAL,335547800000,WINDOWS COMPUTER,300000,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,,,7 HOURS,,,,,Nation,YES
+Mehul,10/9/2018,MONEY,Aadhaar Data Breach,Unknown,pwn0001,Bengaluru,6710060,SERVERS,,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,,YES,,,,,,Government,NO
+Mehul,4/1/2019,HUMILIATION,Wipro Data Breach,Unknown,,,,SERVERS,,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,,,,FEW MONTHS,,,WIPRO,Service,NO
+Mehul,10/1/2023,MONEY,SUZUKI PLANT SHUT,Unknown,,,,SERVER,,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,,,,,,FEW DAYS,SUZUKI,Service,NO
+Mehul,4/1/2023,MONEY,Insurance Information Bureau of India (IIB),Russia,RUSSIAN HACKERS,Hyderabad,21000000,SERVER,30,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,,,4 DAYS,,,,Insurance Information Bureau of India (IIB),Government,NO
+Mehul,4/1/2018,DEFACEMENT,Indian Government Website Defacements,China,CHINESE,,,WEBSITES/SERVERS,700,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,,,,,,,Goverment Websites,Government,YES
+Avanish,12/1/2020,MONEY,AIIMS Cyberattack,Unknown,Unknown,New Delhi,Undisclosed,Servers,5,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,Unknown,6 hours,Not Disclosed,5 Days,2 Weeks,AIIMS,Health,NO
+Avanish,5/1/2023,MONEY,MoChhatua Data Breach,Unknown,Unknown,Odisha,N/A,Servers,Undisclosed,NO,YES,NO,NO,NO,NO,YES,NO,YES,YES,NO,Unknown,Not Disclosed,Not Disclosed,N/A,Not Disclosed,"Department of Women and Child Development, Odisha",Government,NO
+Avanish,2/1/2021,DISRUPTION,MHDeLsec disruption attack,Unknown,Unknown,Mumbai,"500,000","Servers, Desktops",100,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,5 days,4 hours,2 days,3 days,Maharashtra State Electricity Distribution Company Limited (MSEDCL),Service,NO
+Avanish,4/1/2021,GATHER DATA,IMC Phishing Attack,Unknown,Unknown,New Delhi,"300,000","Laptops, Desktops",50,YES,YES,NO,NO,YES,NO,YES,NO,NO,YES,NO,NO,2 days,1 hour,1 day,1 day,Indian Media Company,Media,NO
+Avanish,5/1/2021,MONEY,Sodinokibi (REvil),Unknown,REvil group,Bengaluru,"2,000,000","Servers, Laptops",200,NO,YES,YES,NO,NO,YES,NO,NO,YES,NO,NO,NO,7 days,2 hours,3 days,4 days,Indian IT Company,Tech,YES
+Avanish,6/1/2021,UNKNOWN,Third party Pharma breach,India,State-sponsored group,Mumbai,"1,000,000","Servers, Desktops, Laptops",300,NO,YES,YES,NO,YES,NO,YES,NO,NO,YES,YES,NO,10 days,6 hours,5 days,5 days,Pharmaceutical Company,Health,YES
+Avanish,8/1/2021,INSIDER THREAT,Tupperware insider attack,India,Disgruntled employee,Hyderabad,"500,000","Servers, Laptops",100,NO,YES,YES,NO,NO,NO,YES,NO,YES,NO,NO,YES,4 days,2 hours,2 days,2 days,E-commerce Company,Service,NO
+Avanish,9/1/2021,DISRUPTION,WannaCry Chennai,North Korea,North Korea,Chennai,"1,500,000","Servers, Desktops, Laptops",150,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,6 days,3 hours,2 days,4 days,Manufacturing Company,Service,NO
+Avanish,10/1/2021,GATHER DATA,SBI Phishing Attack,Unknown,Unknown,Pune,"200,000","Laptops, Desktops",75,YES,YES,NO,NO,YES,NO,YES,NO,NO,YES,NO,NO,3 days,1 hour,1 day,2 days,Financial Services Company,Finance,NO
+Avanish,12/1/2021,DISRUPTION,Government Disabling breach,Unknown,Unknown,New Delhi,"2,000,000",Servers,500,NO,YES,NO,NO,NO,NO,YES,NO,YES,NO,NO,NO,2 days,1 hour,1 day,1 day,Government Website,Government,YES
+Mehul,10/1/2020,SURVEILLENCE,GravityRAT Spyware,Unknown,,,,"Mobile, Servers",100,NO,YES,NO,NO,YES,NO,NO,NO,NO,,,,,5 YEARS,,,Indian Military,Government,YES
+Mehul,7/1/2024,MONEY,WazirX,Unknown,,Mumbai,18400000000,"SERVERS, DESKTOPS",,NO,NO,NO,NO,YES,NO,NO,NO,NO,,,,,,5 DAYS,5 DAYS,WazirX,Tech,NO
+Mehul,2/1/2024,MONEY,Burger Singh Website Hack,Pakistan,PAKISTAN Insane PK,Gurgaon,,"SERVERS, DESKTOPS",,NO,NO,NO,NO,NO,NO,YES,NO,NO,,,,,1 DAY,,,Burger singh,Food,NO
+Achintya,4/1/2019,MONEY,Telangana and Andhra pradesh power utility systems attack,Unknown,Unknown,Tirupati,0,SERVERS,UNDISCLOSED,YES,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,,Not Disclosed,3 DAYS,3 DAYS,"TSSPDCL, TSNPDCL, APSPDCL, APEPDCL",Government,NO
+Achintya,3/1/2023,MONEY,Sun Pharma Ransomware attack,Russia,"ALPHV, Russian",Mumbai,UNDISCLOSED,UNDISCLOSED,UNDISCLOSED,YES,NO,NO,YES,NO,YES,NO,NO,YES,NO,NO,NO,3 WEEKS,3 WEEKS,3 WEEKS,3 WEEKS,Sun Pharma,Health,NO
+Achintya,9/1/2019,SURVEILLENCE,Indian Nuclear Power Plant Breach,North Korea,"Lazarus Group, North Korea",Koodankulam,0,DESKTOPS,1,NO,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,NO,6 MONTHS,6 MONTHS,0,UNDISCLOSED,Kudankulam Nuclear Power Plant,Service,NO
+Achintya,10/1/2019,SURVEILLENCE,Pegasus Spyware Attack,Isreal,"NSO Group, Israel",Distributed,,MOBILE,1400,NO,NO,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,VARYING,VARYING,NA,VARYING,Facebook,Media,YES
+Achintya,1/1/2019,RESEARCH DISCOVERY,SBI Data Breach,Unknown,NA,Mumbai,0,SERVERS,UNDISCLOSED,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,SBI,Finance,NO
+Achintya,10/1/2020,MONEY,Dr. Reddy's Laboratories Ransomware Attack,Unknown,Unknown,Distributed,UNDISCLOSED,SERVERS,UNDISCLOSED,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,DR Reddy's,Health,YES
+Achintya,5/1/2021,GATHER DATA,Air India Data Breach,Unknown,Unknown,"Cointrin, Switzerland",UNDISCLOSED,SERVERS,4500000,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,22 DAYS,22 DAYS,NA,0,Air India,Travel,YES
+Achintya,10/1/2021,MONEY,Acer India Server Breach,Spanish,Desorden,UNDISCLOSED,UNDISCLOSED,SERVERS,1000000,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Acer,Tech,NO
+Achintya,4/1/2021,MONEY,Domino's India Data Leak,French,Rex Mundi,UNDISCLOSED,550000,SERVERS,180000000,NO,YES,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Domino's India,Food,NO
+Achintya,10/1/2020,MONEY,BigBasket Data Breach,USA,ShinyHunters,Bangalore,40000,SERVERS,20000000,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,BigBasket,Service,NO
+Achintya,4/1/2019,MONEY,JustDial Data Leak,Unknown,Unknown,Mumbai,UNDISCLOSED,SERVERS,100000000,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,4 YEARS,4 YEARS,NA,UNKNOWN,Just Dial,Tech,NO
+Achintya,3/1/2021,MONEY,Mobikwik Data Breach,Unknown,Unknown,Gurgaon,NA,MOBILE,110000000,YES,NO,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,UNKNOWN,UNKNOWN,NA,UNKNOWN,Mobikwik,Finance,NO
+Mehul,6/1/2019,DISRUPTION,Silex Malware,Unknown,,,,IoT,2000,NO,YES,YES,NO,YES,NO,NO,,,,YES,,SEVERAL DAYS,,FULL,REPLACEMENT,,Nation,YES
+Mehul,7/9/1905,DISRUPTION,Triton Malware,Unknown,,,,IoT,12 - 100,YES,YES,NO,YES,YES,,,,,,YES,,LONG TIME,,,FEW WEEKS,Scheinder,Government,NO
+Mehul,10/1/2019,GATHER DATA,DTrack Malware,Unknown,,,23000000,"IoT, Banks",1300000,NO,,YES,YES,YES,NO,NO,,,,YES,,FEW MONTHS,,7 DAYS,FEW WEEKS,IoT in ATM,Finance,YES
+Mehul,3/1/2023,DISRUPTION,Ghost Malware,Unknown,,,,"Computer, Servers, Control Systems",100,NO,YES,YES,YES,YES,NO,,,,,YES,,6 MONTHS,,,6 MONTHS,DEFENSE,Government,YES
+Abhishek,1/1/2020,MONEY,Unacademy Data Breach,Unknown,unknown,Bengaluru,NA,Mobiles,2000000,NO,,NO,YES,NO,NO,YES,,NO,YES,NO,NO,UNKNOWN,UNKNOWN,NA,UNKNOWN,Unacademy,Tech,NO
+Shivang,6/1/2017,MONEY,Petya Ransomware Attack,Russia,"Sandworm Group, Russia",Mumbai,UNDISCLOSED,"Desktops, Laptops, Servers",UNDISCLOSED,NO,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,NA,UNKNOWN,Jawaharlal Nehru Port Trust,Government,YES
+Abhishek,2/1/2018,MONEY,City Union Bank SWIFT System Hack,Unknown,unknown,,2000000,Servers,UNDISCLOSED,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,,,,,,Finance,NO
+Shivang,7/1/2017,DISRUPTION,BSNL Data Breach,Unknown,Unknown,Karnataka,UNDISCLOSED,Modems,60000,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,SEVERAL WEEKS,UNKNOWN,SEVERAL WEEKS,UNKNOWN,BSNL,Tech,NO
+Shivang,7/1/2016,MONEY,Union Bank of India Cyber Heist,Unknown,Unknown,Mumbai,NA,Servers,UNDISCLOSED,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,1 DAY,NA,NA,Union Bank of India,Finance,NO
+Shivang,5/1/2016,MONEY,Hitachi Payment Services Breach,Unknown,Unknown,Mumbai,154800,"ATMs, Servers",3200000,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,55 DAYS,NA,NA,Hitachi Payment Services,Finance,NO
+Shivang,7/1/2017,MONEY,Jio Data Breach,Pakistan,Imran Chippa,Mumbai,UNDISCLOSED,Servers,120000000,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,NA,NA,Reliance JIO,Tech,NO
+Shivang,6/1/2020,MONEY,Indiabulls Data Breach,Russia,CLOP ransomware group,Gurgaon,UNDISCLOSED,Servers,UNDISCLOSED,NO,NO,NO,YES,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,NA,NA,Indiabulls,Finance,NO
+Shivang,7/12/1905,GATHER DATA,Bharat Biotech and Serum Institute of India Cyber Attack,China,"APT10 Stone Panda, China",Hyderabad,UNDISCLOSED,Servers,UNDISCLOSED,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,NA,NA,Bharat Biotech and Serum Institute of India,Health,NO
+Shivang,7/1/2020,MONEY,Haldiram Ransomware Attack,Unknown,Unknown,Noida,750000,Servers,UNDISCLOSED,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Haldiram,Food,NO
+Abhishek,8/1/2020,MONEY,Juspay Data Breach,Unknown,Unknown,Bengaluru,,Servers,35000000,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,UNKNOWN,UNKNOWN,NA,NA,"Swiggy, Amazon, Juspay, Ola",Finance,NO
+Abhishek,4/1/2021,MONEY,Upstox Data Breach,USA,ShinyHunters,UNDISCLOSED,NA,Servers,2500000,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,UNKNOWN,UNKNOWN,NA,NA,Upstox,Finance,NO
+Abhishek,12/1/2022,POLITICAL,Railyatri Data Leak,Isreal,Unit82,UNDISCLOSED,NA,Servers,31000000,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,NA,NA,Railyatri,Government,NO
+Abhishek,,GATHER DATA,MeitY Email Hack,Unknown,,,,,,YES,NO,NO,NO,YES,NO,,,,,,,,,,,,Government,NO
+Abhishek,,GATHER DATA,Hathway Cable and Datacom Breach,Unknown,,,,,,NO,NO,NO,YES,NO,NO,YES,,,,,,,,,,,Telecom,NO
+Abhishek,5/1/2021,MONEY,CAT data Breach,Unknown,Unknown,UNDISCLOSED,NA,Servers,190000,NO,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,NA,NA,IIM website,Government,NO
+Abhishek,7/1/2019,MONEY,Capital One Data Breach,Unknown,,UNDISCLOSED,100 million,Servers,undisclosed,NO,YES,NO,YES,NO,NO,NO,,,,,,,,,,,Finance,NO
+Mehul,4/1/2022,MONEY,Oil India Cyber Attack,Nigeria,Nigerian Server,Assam,7.5 million,"server, network and other related services",,NO,YES,NO,YES,NO,YES,,,,,,,,,,10 DAYS,Oil India,Government,YES
+Mehul,6/1/2020,MONEY,NHAI,Unknown,,New Delhi,,Servers,,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,,,,,National Highway Authority of India,Government,NO
+Mehul,11/1/2023,GATHER DATA,ICMR Data Breach,Unknown,pwn001,,-,,81500000,NO,NO,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,,,9 Hours,,ICMR,Health,YES
+Mehul,2/1/2021,MONEY,NTPC Data Breach,China,Red Echo,New Delhi,,"Server, Power Plants",12,NO,NO,NO,YES,NO,YES,YES,NO,NO,NO,NO,NO,1 YEAR,,,,NTPC,Service,NO
+Mehul,5/1/2022,GATHER DATA,HDB Data Breach,Unknown,kernalware,,,Servers,73000000,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,,,,,HDB,Finance,NO
+Shivang,3/1/2018,MONEY,UHBVN Billing Data Hack,Unknown,Unknown,Haryana,UNDISCLOSED,"Servers, Network",UNDISCLOSED,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Uttar Haryana Bijli Vitran Nigam,Government,NO
+Mehul,7/1/2024,GATHER DATA,India Post Phishing Attack,China,Smishing Triads,,,Domains,470,YES,NO,NO,NO,NO,NO,NO,NO,Cloud,YES,NO,NO,,,,,India Post,Government,NO
+Achintya,5/1/2017,MONEY,Zomato Data Breach,China,nclay,NA,UNDISCLOSED,Servers,17000000,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Zomato,Food,NO
+Achintya,10/1/2016,MONEY,Indian Banks' Debit Card Data Leak,Russia,Tricked,Siruseri,UNKNOWN,"Servers, Network, Debit Cards",3200000,NO,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,1 year,1 year,NA,several weeks,"SBI, HDFC Bank, ICICI, YES Bank and Axis Bank",Finance,NO
+Mehul,5/1/2025,DISRUPTION,Spice Jet Ransomware,Unknown,UNKNOWN,,716686800,Servers,,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,,,,,Spice Jet,Travel,NO
+Achintya,7/9/1905,MONEY,Ransomware Attack on Gujarat's Diamond Industry,Unknown,UNKNOWN,Surat,UNKNOWN,Servers,UNKNOWN,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Several Vendors,Government,NO
+Achintya,11/1/2017,SURVEILLENCE,ISRO Spyware Attack,China,China,Bengaluru,NA,"Servers, Satelites",UNDISCLOSED,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,NO,NO,several years,several years,NA,NA,ISRO,Government,NO
+Mehul,5/1/2024,MONEY,Microsoft India's X Account,Russia,crypto scammers,UNDISCLOSED,59000000,NONE,1,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Microsoft,Private,YES
+Achintya,9/1/2018,GATHER DATA,CamScanner Malware,Unknown,UNKNOWN,UNKNOWN,NA,Mobile,100000000,NO,NO,NO,YES,YES,NO,NO,NO,NO,YES,NO,YES,several months,UNKNOWN,NA,UNKNOWN,"INTSIG Information Co., Ltd.",Private,NO
+Achintya,7/10/1905,MONEY,Axis Bank ATM Malware Attack,Unknown,UNKNOWN,Chennai,UNDISCLOSED,ATMS,UNKNOWN,NO,YES,NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,several months,several months,NA,several weeks,AXIS Bank,Finance,NO
+Mehul,5/1/2018,LEAKED DATA,Honda,Unknown,NA,Amazon S3,UNKNOWN,BUCKETS,2,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,NA,3 MONTHS,NA,NA,Honda,Private,YES
+Mehul,5/1/2017,DEFACEMENT,All India Football Federation (AIFF),USA,Zero Cool,UNDISCLOSED,NA,Website,UNKNOWN,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,,,,,,Government,NO
+Mehul,1/1/2011,DEFACEMENT,All India Football Federation (AIFF),Russia,ZCompany Hacking Crew,MUMBAI,NA,Website,UNKNOWN,NO,NO,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,,,,,,Government,NO
+Shivang,11/1/2021,GATHER DATA,eXotic Visit Campaign - XploitSPY,China,Virtual Invaders,All across India,NA,Phones,380,YES,NO,NO,NO,YES,NO,NO,NO,NO,YES,NO,NO,2 years,UNKNOWN,UNKNOWN,UNKNOWN,No specific company,Nation,NO
+Shivang,9/1/2022,MONEY,Swacchata Platform Breach,Unknown,UNKNOWN,UNDISCLOSED,UNDISCLOSED,Servers,16000000,NO,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN UNKNOWN,,Ministry of Housing and Urban Affairs,Government,NO
+Shivang,12/1/2012,POLITICAL,Acer India Maxney Hack,Unknown,Maxney,UNDISCLOSED,UNDISCLOSED,Servers,UNKNOWN,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Acer India,Tech,NO
+Shivang,12/1/2010,DEFACEMENT,CBI Cyberattack,Pakistan,Pakistani Cyber Army,UNDISCLOSED,UNDISCLOSED,Server/Website,UNKNOWN,NO,YES,NO,NO,NO,NO,YES,NO,NO,NO,NO,NO,Several days,UNKNOWN,UNKNOWN,UNKNOWN,Central Bureau of Investigation,Government,NO
+Shivang,11/1/2023,MONEY,Taj Hotels Data Breach,China,Dnacookies,UNDISCLOSED,UNDISCLOSED,Servers,1500000,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Taj Hotels Group,Health,YES
+Shivang,10/1/2022,MONEY,Tata Power Attack,Russia,The Hive Ransomware Group,Mumbai,UNDISCLOSED,"Servers, Network",UNKNOWN,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,Several days,UNKNOWN,UNKNOWN,Tata Power,Service,NO
+Shivang,3/1/2024,MONEY,Polycab Ransomware Attack,Unknown,UNKNOWN,Mumbai,UNDISCLOSED,"Servers, Network",UNKNOWN,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Polycab India Limited,Service,NO
+Shivang,2/1/2024,MONEY,Motilal Oswal Ransomware Attack,Russia,LockBit,Mumbai,UNDISCLOSED,Computers,UNKNOWN,NO,YES,NO,NO,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,An hour,Motilal Oswal Financial Services,Finance,NO
+Shivang,4/1/2024,MONEY,boAt India Data Breach,Germany,ShopifyGUY,"Gurgaon, Haryana",UNDISCLOSED,Servers,7500000,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,boAt India,Tech,NO
+Avanish,9/2/2022,GATHER DATA,Flipkart Data Breach,Unknown,NetSecOfficial,Flipkart Servers,UNDISCLOSED,Servers,"552,094",NO,YES,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,NA,NA,UNKNOWN,Flipkart,Tech,NO
+Avanish,8/3/2020,MONEY,Paytm Data Breach,Unknown,John Wick,Paytm Admin Website,UNDISCLOSED,Servers,UKNOWN,NO,NO,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Paytm Mall,Finance,NO
+Avanish,11/1/2020,GATHER DATA,Cleartrip Data Breach,Unknown,UNKNOWN,"Mumbai, India",UNDISCLOSED,Servers,UNKNOWN,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Cleartrip,Travel,YES
+Avanish,6/1/2024,GATHER DATA,Airtel Data Breach,China,xenZen,UNDISCLOSED,4250000,Servers,UNKNOWN,NO,YES,YES,YES,NO,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Airtel India,Tech,NO
+Avanish,6/1/2016,GATHER DATA,Uber Data Breach,Unknown,UNKNOWN,UNDISCLOSED,8500000,AWS Account,UNKNOWN,YES,NO,YES,NO,NO,YES,NO,NO,YES,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Uber,Travel,YES
+Avanish,6/1/2020,GATHER DATA,BHIM Data Breach,Unknown,UNKNOWN,UNDISCLOSED,UNDISCLOSED,AWS Instance,UNKNOWN,NO,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,http://cscbhim.in/,Food,NO
+Achintya,7/1/2021,MONEY,Dunzo Data Breach,Unknown,UNKNOWN,UNDISCLOSED,UNKNOWN,Servers,3400000,NO,YES,YES,NO,NO,NO,NO,NO,NO,YES,NO,NO,UNKNOWN,UNKNOWN,NA,Several weeks,Dunzo,Private,NO
+Achintya,12/1/2021,MONEY,Dr. Lal PathLabs Data Breach,Unknown,UNKNOWN,UNDISCLOSED,UNKNOWN,Servers,UNKNOWN,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,3 YEARS,NA,NA,Several weeks,Dr Lal Path Labs,Health,NO
+Achintya,3/1/2018,MONEY,Facebook India Data Breach,Unknown,UNKNOWN,UNDISCLOSED,UNKNOWN,Servers,62000000,NO,NO,NO,YES,NO,NO,YES,NO,YES,NO,NO,NO,UNKNOWN,UNKNOWN,NA,Several weeks,Facebook,Government,YES
+Mehul,1/1/2021,LEAKED DATA,BookChor Data Breach,Unknown,UNKNOWN,UNDISCLOSED,UNKNOWN,Servers,0.5 million,YES,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,BookChor,Media,NO
+Mehul,1/1/2018,LEAKED DATA,DailyObjects Data Breach,Unknown,UNKNOWN,UNDISCLOSED,UNKNOWN,Servers,484000,YES,NO,YES,NO,NO,NO,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,DailyObjects,Service,NO
+Somil,11/1/2023,GATHER DATA,DuckTail Stealer Malware,Vietnam,Vietnamese threat actors,India,UNKNOWN,UNKNOWN,UNKNOWN,YES,NO,NO,YES,NO,NO,YES,NO,NO,NO,NO,NO,213 hours,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Tech,NO
+Somil,12/1/2023,DISRUPTION,APT Sidecopy attack,Pakistan,Pakistan-based APT SideCopy,India,UNKNOWN,"Windows, Linux",UNKNOWN,NO,YES,YES,NO,YES,YES,NO,YES,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Defense,Government,NO
+Somil,10/1/2023,MONEY,CloudSEK attack,China,China-based scammers,India,44000,UNKNOWN,30000,YES,NO,YES,YES,NO,NO,NO,NO,NO,YES,NO,NO,57 hours,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Finance,NO
+Somil,10/1/2023,GATHER DATA,Political attack,India,State-sponsored attackers,India,UNKNOWN,iPhone,UNKNOWN,NO,NO,NO,YES,NO,NO,NO,NO,NO,YES,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Apple,Tech,NO
+Somil,10/1/2023,MONEY,Operation Chakra-II,Unknown,UNKNOWN,India,UNKNOWN,"laptops, hard disk, mobile phones, SIM Cards",UNKNOWN,YES,YES,NO,NO,NO,NO,YES,NO,NO,YES,NO,NO,1825 hours,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Tech,YES
+Somil,10/1/2023,MONEY,National Health Mission Cyberattack,Unknown,Knight Ransomware Group,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,NO,NO,NO,NO,YES,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,National Health Mission,Government,NO
+Somil,10/1/2023,MONEY,Safexpay Technology Hack,Unknown,UNKNOWN,"Thane, India",22000000,"Servers, Payment Gateway",UNKNOWN,NO,YES,YES,YES,NO,NO,YES,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Safexpay Technology Pvt Ltd (STPL),Finance,YES
+Somil,10/1/2023,MONEY,MEDUSA Ransomware Attack,USA,MEDUSA Ransomware Group,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,NO,YES,NO,YES,YES,YES,NO,NO,NO,NO,NO,NO,UNKNOWN,UNKNOWN,UNKNOWN,UNKNOWN,Karam Chand Thapar & Bros. (Coal Sales) Ltd,Service,NO
